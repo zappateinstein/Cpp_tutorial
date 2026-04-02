@@ -1,0 +1,5 @@
+add_subdirectory(igg_image)
+add_subdirectory(application1)
+add_subdirectory(application2)
+add_subdirectory(application3)
+add_subdirectory(application4)
