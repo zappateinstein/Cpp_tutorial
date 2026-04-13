@@ -1,0 +1,5 @@
+add_subdirectory(io_strategies)
+add_library(igg_image image.cpp)
+target_link_libraries(igg_image io_strategies)
+add_executable(hw3_main main.cpp)
+target_link_libraries(hw3_main igg_image)
