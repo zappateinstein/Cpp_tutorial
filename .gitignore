@@ -2,11 +2,13 @@
 HW1/build/
 HW2/build/
 HW3/build/
+homework_4/build/
 
 # Compiled binaries
 HW1/bin/
 HW2/bin/
 HW3/bin/
+homework_4/bin/
 
 # CMake generated files
 CMakeCache.txt
